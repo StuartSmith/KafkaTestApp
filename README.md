@@ -1,0 +1,2 @@
+# KafkaTestApp
+ApplicationToTestKafka
